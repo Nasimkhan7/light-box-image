@@ -1,0 +1,20 @@
+
+
+.myset{
+    border: 1px solid rgb(204, 204, 204);
+    box-shadow: 0 0 10px rgba(204, 204, 204, 0.658);
+}
+
+.carousel-inner :hover{
+    transform: scale(1.1);
+    box-shadow: 0 0 3px #222;
+    transition: 1s;
+}
+
+
+
+.sa:hover{
+    transform: scale(1.1);
+    box-shadow: 0 0 3px #222;
+    transition: 1s;
+}
